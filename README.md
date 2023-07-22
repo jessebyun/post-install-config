@@ -101,7 +101,7 @@ Configure Service Level Agreements. Sev-A (business critical events) with 1hr gr
 <img src="https://imgur.com/I6TSQYr.png" height="80%" width="80%" alt="Help Topics"/>
 </p>
 <p>
-Configure different Help Topics which users can initially categorize for support. This can later be changed along with SLA by a Queue Manager for proper ticket prioritization for Help Desk Analysts. 
+Configure different Help Topics which users can initially categorize for support. This along with SLA can later be modified by a Queue Manager for proper ticket prioritization for Help Desk Analysts. 
 </p>
 <br />
 <br />
