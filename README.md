@@ -33,7 +33,7 @@ This tutorial outlines the post-install configuration of the open-source help de
   <img src="https://i.imgur.com/rr101kB.png" height="80%" width="80%" alt="Create Roles"/>
 </p>
 <p>
-Create roles with varying access for workers such as System Administrators, Ticketing Queue Manager, and Help Desk Analysts. 
+Create roles with varying permissions for different job titles such as System Administrators, Ticketing Queue Manager, and Help Desk Analysts. 
 </p>
 <br />
 <br />
