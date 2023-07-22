@@ -30,6 +30,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <p>
 <img src="https://imgur.com/pvc5U7M.png" height="80%" width="80%" alt="Create Roles"/>
+  <br />
   <img src="https://i.imgur.com/rr101kB.png" height="80%" width="80%" alt="Create Roles"/>
 </p>
 <p>
@@ -75,7 +76,11 @@ Change administration settings to allow users to create tickets without going th
 
 <p>
 <img src="https://imgur.com/eqUBOSU.png" height="80%" width="80%" alt="Agents"/>
+  <br />
+  <br />
   <img src="https://imgur.com/VLrqTe2.png" height="80%" width="80%" alt="Agents"/>
+  <br />
+  <br />
   <img src="https://imgur.com/DBMAXzJ.png" height="80%" width="80%" alt="Agents"/>
 </p>
 <p>
