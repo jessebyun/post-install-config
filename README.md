@@ -52,9 +52,58 @@ Configure the different departments for which the different IT personnel would b
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/2MR5KGr.png" height="80%" width="80%" alt="Teams"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Created different teams such as Level I, and Level II support for tickets that require escalation and higher level attention.
 </p>
+<br />
+<br />
+<br />
+<br />
+
+<p>
+<img src="https://imgur.com/EeiRYor.png" height="80%" width="80%" alt="Settings"/>
+</p>
+<p>
+Change administration settings to allow users to create tickets without going through registration or login. 
+</p>
+<br />
+<br />
+<br />
+<br />
+
+<p>
+<img src="https://imgur.com/eqUBOSU.png" height="80%" width="80%" alt="Agents"/>
+  <img src="https://imgur.com/VLrqTe2.png" height="80%" width="80%" alt="Agents"/>
+  <img src="https://imgur.com/DBMAXzJ.png" height="80%" width="80%" alt="Agents"/>
+</p>
+<p>
+Configure Agents (workers) with different roles. Also add Users (customers). 
+</p>
+<br />
+<br />
+<br />
+<br />
+
+<p>
+<img src="https://imgur.com/D5Hnp4A.png" height="80%" width="80%" alt="SLA"/>
+</p>
+<p>
+Configure Service Level Agreements. Sev-A (business critical events) with 1hr grace period with 24/7 support availability. Sev-B (moderate impact events) with 4hr grace period also 24/7. Sev-C (general support inquries) 8hr grace period with support available only during normal business hours Mon-Fri 9am-5pm. 
+</p>
+<br />
+<br />
+<br />
+<br />
+
+<p>
+<img src="https://imgur.com/I6TSQYr.png" height="80%" width="80%" alt="Help Topics"/>
+</p>
+<p>
+Configure different Help Topics which users can initially categorize for support. This can later be changed along with SLA by a Queue Manager for proper ticket prioritization for Help Desk Analysts. 
+</p>
+<br />
+<br />
+<br />
 <br />
