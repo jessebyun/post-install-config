@@ -44,7 +44,7 @@ Create roles with varying permissions for different job titles such as System Ad
 <img src="https://i.imgur.com/gVdRlkx.png" height="80%" width="80%" alt="Create Departments"/>
 </p>
 <p>
-Configure the different departments for which the IT personnel would belong to. 
+Configure the different departments for which the different IT personnel would belong to. 
 </p>
 <br />
 <br />
